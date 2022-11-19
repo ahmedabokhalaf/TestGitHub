@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './Components/header/header.component';
-import { SideMenuComponent } from './side-menu/side-menu.component';
+import { SideMenuComponent } from './Components/side-menu/side-menu.component';
 
 
 @NgModule({
